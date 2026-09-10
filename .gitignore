@@ -1,0 +1,4 @@
+Plaintext
+*.log
+.env
+temp/
